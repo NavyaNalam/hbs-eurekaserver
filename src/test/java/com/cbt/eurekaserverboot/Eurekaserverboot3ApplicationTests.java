@@ -1,6 +1,5 @@
-package com.cbt.eurekaserverboot3;
+package com.cbt.eurekaserverboot;
 
-import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest

@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.cbt</groupId>
-    <artifactId>eurekaserverboot3</artifactId>
-    <version>prod-1</version>
-    <name>eurekaserverboot3</name>
-    <description>eurekaserverboot3</description>
+    <artifactId>eurekaserverboot</artifactId>
+    <version>prod</version>
+    <name>eurekaserverboot</name>
+    <description>eurekaserverboot</description>
     <url/>
     <licenses>
         <license/>
